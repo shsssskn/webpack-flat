@@ -1,0 +1,22 @@
+{
+  "name": "webpack-flat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shsssskn/webpack-flat.git",
+  "author": "shsssskn <shsssskn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.5.3",
+    "html-webpack-plugin": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "typescript": "^3.8.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
